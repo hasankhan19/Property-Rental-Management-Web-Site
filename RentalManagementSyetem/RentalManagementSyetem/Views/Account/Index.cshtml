@@ -1,0 +1,70 @@
+﻿@model IEnumerable<RentalManagementSyetem.Models.DTO_ClsUser>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="container">
+
+    <div class="row mt-3">
+        <div class="col-12">
+            <table id="Itemtable" class="table table-bordered table-responsive table-striped text-capitalize text-center">
+                <thead>
+                    <tr class="bg-dark text-white">
+                        <th>FirstName</th>
+                        <th>LastName</th>
+                        <th>Email</th>
+                        <th>ContactNo</th>
+                        <th>Address</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function () {
+
+            //lookup category
+            $("#Itemtable").DataTable({
+                "processing": true,
+                "serverSide": true,
+                "filter": true,
+                "orderMulti": false,
+                "ajax": {
+                    "type": "POST",
+                    "url": "/Account/LookUpTenants",
+                    "datatype": "json"
+                },
+                "columns": [
+                    { "data": "firstName", "name": "firstName", "autoWidth": true },
+                    { "data": "lastName", "name": "lastName", "autoWidth": true },
+                    { "data": "email", "name": "email", "autoWidth": true },
+                    { "data": "contactNo", "name": "contactNo", "autoWidth": true },
+                    { "data": "address", "name": "address", "autoWidth": true },
+                    { "data": "status", "name": "status", "autoWidth": true },
+                    {
+                        "render": function (data, type, full, meta) {
+                            var deleteButton = '<a class="btn btn-danger  rounded-pill" href="/Account/Delete?id=' + full.userID + '">Delete</a>';
+                            return deleteButton;
+                        }
+                    }
+                ]
+            });
+        });
+
+    </script>
+
+}
+

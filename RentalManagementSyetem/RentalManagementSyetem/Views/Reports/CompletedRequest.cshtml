@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewData["Title"] = "CompletedRequest";
+}
+
+<div class="container">
+
+    <div class="row mt-3">
+        <table id="Itemtable" class="table table-bordered table-responsive table-striped text-capitalize text-center">
+            <thead>
+                <tr class="bg-dark text-white">
+                    <th>Suggest Date</th>
+                    <th>From Date</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <!--model code-->
+    </div>
+</div>
+
+@section scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function () {
+
+            //lookup category
+            $("#Itemtable").DataTable({
+                "processing": true,
+                "serverSide": true,
+                "filter": true,
+                "orderMulti": false,
+                "ajax": {
+                    "type": "POST",
+                    "url": "/Reports/LookUpICompletedRequest",
+                    "datatype": "json"
+                },
+                "columns": [
+                    { "data": "sdate", "name": "sdate", "autoWidth": true },
+                    { "data": "fdate", "name": "fdate", "autoWidth": true },
+                    { "data": "status", "name": "status", "autoWidth": true },
+                ]
+            });
+        });
+
+    </script>
+
+}
+
+

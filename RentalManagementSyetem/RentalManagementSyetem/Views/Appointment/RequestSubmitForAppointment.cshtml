@@ -1,0 +1,127 @@
+﻿@model RentalManagementSyetem.Models.Dto_ClsApartment
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="row">
+    <input type="hidden" asp-for="ApartmentId" id="ApartmentId01" />
+    <div class="col-12">
+        <div class="input-group mb-4">
+            <select class="form-control" required asp-items="@(ViewBag.prpertyMangerlist)" id="prpertyMangerlist01">
+                <option></option>
+            </select>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">Address</span>
+            <textarea type="text" asp-for="Address" id="Address01" class="form-control" placeholder="Enter Address" id="" aria-label="name" aria-describedby="basic-addon1"></textarea>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        <div class="input-group mb-3">
+            <span class="input-group-text">Suggestted Date</span>
+            <input type="date"  id="suggestedDated01" class="form-control" aria-label="name" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">Fromdate</span>
+            <input type="date" id="fromdate01" class="form-control"  aria-label="name" aria-describedby="basic-addon1">
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-4">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">Bedrooms</span>
+            <input type="text" asp-for="Bedrooms" id="Bedrooms01" class="form-control" placeholder="Enter Bedrooms" id="" aria-label="name" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">Bathrooms</span>
+            <input type="text" asp-for="Bathrooms" id="Bathrooms01" class="form-control" placeholder="Enter Bathrooms" id="" aria-label="name" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">Price</span>
+            <input type="text" asp-for="Price" id="Price01" class="form-control" placeholder="Enter price" id="" aria-label="name" aria-describedby="basic-addon1">
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $(document).ready(function () {
+
+       
+        $("#prpertyMangerlist01").select2({
+            dropdownParent: $('#itemModel'),
+            placeholder: "Select a Manager",
+            allowClear: true,
+            width: '800px'
+        });
+
+        //default date value
+        $(document).ready(function () {
+            var now = new Date();
+            var day = ("0" + now.getDate()).slice(-2);
+            var month = ("0" + (now.getMonth() + 1)).slice(-2);
+            var today = now.getFullYear() + "-" + (month) + "-" + (day);
+            $('#fromdate01').val(today);
+        });
+        $(document).ready(function () {
+            var now = new Date();
+            var day = ("0" + now.getDate()).slice(-2);
+            var month = ("0" + (now.getMonth() + 1)).slice(-2);
+            var today = now.getFullYear() + "-" + (month) + "-" + (day);
+            $('#suggestedDated01').val(today);
+        });
+
+        //Insert Or Upadet Entity
+        $(".save01").on('click', function (e) {
+            e.preventDefault();
+
+            // get value from input
+            var ApartmentId = $("#ApartmentId01").val();
+            var ManagerId = $("#prpertyMangerlist01").val();
+            var SuggestedDateTime = $("#suggestedDated01").val();
+            var ConfirmDateTime = $("#fromdate01").val();
+           
+            //set value in a object
+            var apartmentobject = {
+                AppId: 0,
+                ManagerId: ManagerId,
+                ApartmentId: ApartmentId,
+                SuggestedDateTime: SuggestedDateTime,
+                ConfirmDateTime: ConfirmDateTime,
+            }
+            //end
+            var jsonobject = JSON.stringify(apartmentobject);
+
+            //pass data to controller
+            $.ajax({
+                url: "/Appointment/SendrequestForAppointment",
+                type: "post",
+                dataType: "json",
+                data: { Appointmentrequest: jsonobject },
+                success: function (response) {
+                    alert(response.data);
+                    window.location.href = "/Home/Index"
+                },
+                error: function () {
+                    alert("Errr:")
+                }
+            })
+            // end
+        })
+        //End
+    })
+</script>

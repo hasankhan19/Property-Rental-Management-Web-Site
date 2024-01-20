@@ -1,0 +1,123 @@
+﻿@model RentalManagementSyetem.Models.DTO_ClsBuilding
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+
+
+<div class="row">
+    <input type="hidden" asp-for="BuildingId" id="BuildingId01" />
+    <div class="col-5">
+        <div class="input-group mb-3">
+            <select class="form-control" required asp-items="@(ViewBag.SetUp)" asp-for="PropertymangerId" id="PropertymangerId01">
+                <option></option>
+            </select>
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">Name</span>
+            <input type="text" asp-for="BuildingName" id="BuildingName01" class="form-control" placeholder="Enter Name" id="" aria-label="name" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <div class="col-3">
+        <div class="input-group mb-3">
+            <span class="input-group-text">Status</span>
+            <select class="form-control" asp-for="status" id="Status01">
+                <option selected>Active</option>
+                <option>Inactive</option>
+            </select>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+
+        $("#PropertymangerId01").select2({
+            dropdownParent: $('#itemModel'),
+            placeholder: "Select a PropertyManger",
+            allowClear: true,
+            width: '380px'
+        });
+        //Insert Or Upadet Entity
+        $(".save01").on('click', function (e) {
+            e.preventDefault();
+
+            // get value from input
+            var BuildingId = $("#BuildingId01").val();
+            var PropertymangerId = $("#PropertymangerId01").val();
+            var BuildingName = $("#BuildingName01").val().trim();
+            var status = $("#Status01 option:selected").val();
+            //end
+            var assignaction = 0;
+            if (BuildingId == 0) {
+                assignaction = "Save";
+            }
+            else {
+                assignaction = "Update"
+            }
+            //set value in a object
+            var buildingobject = {
+                BuildingId: BuildingId,
+                PropertymangerId: PropertymangerId,
+                BuildingName: BuildingName,
+                status: status,
+            }
+            //end
+            var jsonobject = JSON.stringify(buildingobject);
+
+            //pass data to controller
+            $.ajax({
+                url: "/SetUp/InsertUpdateDeleteBuilding",
+                type: "post",
+                dataType: "json",
+                data: { Buildingobj: jsonobject, action: assignaction },
+                success: function (response) {
+                    alert(response.data);
+                    window.location.href = "/SetUp/BuildingIndex"
+                },
+                error: function () {
+                    alert("Errr:")
+                }
+            })
+            // end
+        })
+        //End
+        //Insert Or Upadet Entity
+        $(".Delete02").on('click', function (e) {
+            e.preventDefault();
+
+
+            // get value from input
+            var BuildingId = $("#BuildingId01").val();
+            var BuildingName = $("#BuildingName01").val().trim();
+            var status = $("#Status01 option:selected").val();
+            //end
+            
+            //set value in a object
+            var buildingobject = {
+                BuildingId: BuildingId,
+                status: status,
+            }
+            //end
+            var jsonobject = JSON.stringify(buildingobject);
+
+            //pass data to controller
+            $.ajax({
+                url: "/SetUp/InsertUpdateDeleteBuilding",
+                type: "post",
+                dataType: "json",
+                data: { Buildingobj: jsonobject, action: "Delete" },
+                success: function (response) {
+                    alert(response.data);
+                    window.location.href = "/SetUp/BuildingIndex"
+                },
+                error: function () {
+                    alert("Errr:")
+                }
+            })
+            // end
+        })
+        //End
+    })
+</script>

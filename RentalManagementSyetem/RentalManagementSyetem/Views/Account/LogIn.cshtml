@@ -1,0 +1,35 @@
+﻿@model RentalManagementSyetem.Models.DTO_ClsUser
+
+@{
+    ViewData["Title"] = "LogIn";
+}
+<br />
+<div class="container mx-auto mt-5">
+    <div class="row">
+        <div class="col-3"></div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="text-center">LogIn</h4>
+                    <h5 class="text-center text-danger">@ViewBag.msg </h5>
+                    <form asp-action="LogIn" asp-controller="Account">
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Pasword" class="control-label"></label>
+                            <input asp-for="Pasword" class="form-control" />
+                        </div>
+                        <div class="form-group mt-3">
+                            <input type="submit" value="Login" class="btn btn-primary" />
+                            <a asp-action="Create" asp-controller="Account"  class="btn btn-success" >Register</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-3"></div>
+    </div>
+</div>

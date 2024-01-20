@@ -1,0 +1,104 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <div class="row mt-3">
+        <div class="col-12">
+            <table id="Itemtable" class="table table-bordered table-responsive table-striped text-capitalize text-center">
+                <thead>
+                    <tr class="bg-dark text-white">
+                        <th>Price</th>
+                        <th>Address</th>
+                        <th>BedRooms</th>
+                        <th>BathRooms</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+
+        </div>
+        <!--model code-->
+        <div class="modal fade" id="itemModel" tabindex="-1" aria-labelledby="exampleModalLabel" data-bs-keyboard="false" data-bs-backdrop="static" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">AppointMent</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="modalbody"></div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary rounded-pill save01">Save</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function () {
+
+            //lookup category
+            $("#Itemtable").DataTable({
+                "processing": true,
+                "serverSide": true,
+                "filter": true,
+                "orderMulti": false,
+                "ajax": {
+                    "type": "POST",
+                    "url": "/Home/LookUpApartment",
+                    "datatype": "json"
+                },
+                "columns": [
+                    { "data": "price", "name": "price", "autoWidth": true },
+                    { "data": "address", "name": "address", "autoWidth": true },
+                    { "data": "bedrooms", "name": "bedrooms", "autoWidth": true },
+                    { "data": "bathrooms", "name": "bathrooms", "autoWidth": true },
+                    { "data": "status", "name": "status", "autoWidth": true },
+                    {
+                        "render": function (data, type, row) {
+                            if (row && row.apartmentId) {
+                                if (@User.Identity.IsAuthenticated.ToString().ToLower()) {
+                                    return '<a class="btn btn-info appo01 rounded-pill" data-id="' + row.apartmentId + '">Appointment</a>';
+                                }
+                            }
+                            return '<a class="btn btn-info rounded-pill" href="/Account/LogIn/">LogIn For Appointment</a>';
+                        }
+                    }
+                ]
+            });
+
+
+        });
+
+        //appointment
+
+        $(document).on("click", '.appo01', function (e) {
+            e.preventDefault();
+            var appoID = $(this).data("id");
+            $("#modalbody").load("/Appointment/RequestForAppointment/" + appoID, function (response, status, xhr) {
+                if (status == "success" && response && response.success === false) {
+                    window.location.href = "/Account/LogIn";
+                } else {
+                    $("#itemModel").modal('show');
+                }
+            });
+        });
+
+
+    </script>
+
+}
+
+

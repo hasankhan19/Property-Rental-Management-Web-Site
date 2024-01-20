@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RentalManagementSyetem
+build_property.RootNamespace = RentalManagementSyetem
+build_property.ProjectDir = C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Account/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Account/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Account/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Account/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Appointment/RequestSubmitForAppointment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcUmVxdWVzdFN1Ym1pdEZvckFwcG9pbnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Reports/CompletedRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0c1xDb21wbGV0ZWRSZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Reports/IncommingReportsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0c1xJbmNvbW1pbmdSZXBvcnRzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Reports/ReportsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0c1xSZXBvcnRzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Reports/TenatsReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0c1xUZW5hdHNSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/SetUp/AdminIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0VXBcQWRtaW5JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/SetUp/ApartmentIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0VXBcQXBhcnRtZW50SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/SetUp/BuildingIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0VXBcQnVpbGRpbmdJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/SetUp/InsertUpadetDeleteAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0VXBcSW5zZXJ0VXBhZGV0RGVsZXRlQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/SetUp/InsertUpadetDeleteApartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0VXBcSW5zZXJ0VXBhZGV0RGVsZXRlQXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/SetUp/InsertUpadetDeleteBuilding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0VXBcSW5zZXJ0VXBhZGV0RGVsZXRlQnVpbGRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/SetUp/InsertUpadetDeletePropertyManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0VXBcSW5zZXJ0VXBhZGV0RGVsZXRlUHJvcGVydHlNYW5hZ2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/SetUp/PropertyManagerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0VXBcUHJvcGVydHlNYW5hZ2VySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Clash/Downloads/RentalManagementSyetem/RentalManagementSyetem/RentalManagementSyetem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ccjatik570

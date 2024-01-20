@@ -1,0 +1,124 @@
+﻿
+@{
+    ViewData["Title"] = "LookUpApartment";
+}
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-4">
+            <a id="openmodal" class="btn btn-primary">Add New Apartment</a>
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col-12">
+            <table id="Itemtable" class="table table-bordered table-responsive table-striped text-capitalize text-center">
+                <thead>
+                    <tr class="bg-dark text-white">
+                        <th>Price</th>
+                        <th>Address</th>
+                        <th>BedRooms</th>
+                        <th>BathRooms</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+
+        </div>
+        <!--model code-->
+        <div class="modal fade" id="itemModel" tabindex="-1" aria-labelledby="exampleModalLabel" data-bs-keyboard="false" data-bs-backdrop="static" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Apartment</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="modalbody"></div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary rounded-pill save01">Save</button>
+                        <button type="button" class="btn btn-danger rounded-pill Delete02">Delete</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function () {
+            // show modal
+            $("#openmodal").on('click', function (e) {
+                e.preventDefault();
+                var ApartmentId = 0;
+                $("#modalbody").load("/SetUp/AddorEditApartment/" + ApartmentId, function () {
+                    $("#itemModel").modal('show');
+                    $(".Delete02").hide();
+                    $(".save01").removeClass('btn-success').addClass('btn-primary').text('Save');
+                });
+            });
+
+            //lookup category
+            $("#Itemtable").DataTable({
+                "processing": true,
+                "serverSide": true,
+                "filter": true,
+                "orderMulti": false,
+                "ajax": {
+                    "type": "POST",
+                    "url": "/SetUp/LookUpApartment",
+                    "datatype": "json"
+                },
+                "columns": [
+                    { "data": "price", "name": "price", "autoWidth": true },
+                    { "data": "address", "name": "address", "autoWidth": true },
+                    { "data": "bedrooms", "name": "bedrooms", "autoWidth": true },
+                    { "data": "bathrooms", "name": "bathrooms", "autoWidth": true },
+                    { "data": "status", "name": "status", "autoWidth": true },
+                    {
+                        "render": function (data, type, full, meta) {
+                            var editButton = '<a class="btn btn-info Edit01 rounded-pill"  data-id="' + full.apartmentId + '">Edit</a>';
+                            var deleteButton = '<a class="btn btn-danger Delete01 rounded-pill" data-id="' + full.apartmentId + '">Delete</a>';
+                            return editButton + " " + deleteButton;
+                        }
+                    }
+                ]
+            });
+
+            //edit category
+            $(document).on("click", '.Edit01', function (e) {
+                e.preventDefault();
+                var ApartmentId = $(this).data("id");
+                $("#modalbody").load("/SetUp/AddorEditApartment/" + ApartmentId, function () {
+                    $(".save01").removeClass('btn-primary').addClass("btn-success").text("Update");
+                    $(".Delete02").hide();
+                    $("#itemModel").modal('show');
+                });
+            });
+
+            //Delete category
+            $(document).on("click", '.Delete01', function (e) {
+                e.preventDefault();
+                var ApartmentId = $(this).data("id");
+                $("#modalbody").load("/SetUp/AddorEditApartment/" + ApartmentId, function () {
+                    $(".save01").hide();
+                    $(".Delete02").show();
+                    $("#itemModel").modal('show');
+                });
+            });
+        });
+
+    </script>
+
+}
+

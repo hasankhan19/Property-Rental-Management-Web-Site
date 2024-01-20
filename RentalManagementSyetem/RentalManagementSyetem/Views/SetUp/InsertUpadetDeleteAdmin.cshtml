@@ -1,0 +1,171 @@
+﻿@model RentalManagementSyetem.Models.DTO_ClsUser
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="row">
+    <input type="hidden" asp-for="UserID" id="UserID01" />
+    <div class="col-6">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">FName</span>
+            <input type="text" asp-for="FirstName" id="FirstName01" class="form-control" placeholder="Enter FirstName" aria-label="name" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">LName</span>
+            <input type="text" asp-for="LastName" id="LastName01" class="form-control" placeholder="Enter LastName" aria-label="LastName" aria-describedby="basic-addon1">
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">CellNo</span>
+            <input type="text" asp-for="ContactNo" id="ContactNo01" class="form-control" placeholder="Enter Contact No" aria-label="name" aria-describedby="basic-addon1">
+        </div>
+    </div>
+   
+</div>
+<div class="row">
+    <div class="col-6">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">Email</span>
+            <input type="text" asp-for="Email" id="Email01" class="form-control" placeholder="Enter Email" aria-label="Email" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">Address</span>
+            <textarea type="text" asp-for="Address" id="Address01" class="form-control" placeholder="Enter Address" id="" aria-label="name" aria-describedby="basic-addon1"></textarea>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-6">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">Pasword</span>
+            <input type="password" asp-for="Pasword" id="Pasword01" class="form-control" placeholder="Enter Pasword" id="" aria-label="Pasword" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="input-group mb-3">
+            <span class="input-group-text">Status</span>
+            <select class="form-control" asp-for="status" id="status01">
+                <option selected>Active</option>
+                <option>Inactive</option>
+            </select>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $(document).ready(function () {
+
+       
+        //Insert Or Upadet Entity
+        $(".save01").on('click', function (e) {
+            e.preventDefault();
+
+            // get value from input
+            var UserID = $("#UserID01").val();
+            var FirstName = $("#FirstName01").val();
+            var LastName = $("#LastName01").val();
+            var ContactNo = $("#ContactNo01").val();
+            var Email = $("#Email01").val();
+            var Address = $("#Address01").val();
+            var Pasword = $("#Pasword01").val();
+            var status = $("#status01 option:selected").val();
+            //end
+            var assignaction = 0;
+            if (UserID == 0) {
+                assignaction = "Save";
+            }
+            else {
+                assignaction = "Update"
+            }
+            //set value in a object
+            var Adminobject = {
+                UserID: UserID,
+                FirstName: FirstName,
+                LastName: LastName,
+                ContactNo: ContactNo,
+                Email: Email,
+                Address: Address,
+                Pasword: Pasword,
+                status: status,
+            }
+            //end
+            var jsonobject = JSON.stringify(Adminobject);
+
+            //pass data to controller
+            $.ajax({
+                url: "/SetUp/InsertUpdateDeleteAdmin",
+                type: "post",
+                dataType: "json",
+                data: { adminobj: jsonobject, action: assignaction },
+                success: function (response) {
+                    alert(response.data);
+                    window.location.href = "/SetUp/AdminIndex"
+                },
+                error: function () {
+                    alert("Errr:")
+                }
+            })
+            // end
+        })
+        //End
+
+        //Insert Or Upadet Entity
+        $(".Delete02").on('click', function (e) {
+            e.preventDefault();
+            // get value from input
+            var UserID = $("#UserID01").val();
+            var FirstName = $("#FirstName01").val();
+            var LastName = $("#LastName01").val();
+            var ContactNo = $("#ContactNo01").val();
+            var Email = $("#Email01").val();
+            var Address = $("#Address01").val();
+            var Pasword = $("#Pasword01").val();
+            var status = $("#status01 option:selected").val();
+            //end
+            var assignaction = 0;
+            if (UserID == 0) {
+                assignaction = "Save";
+            }
+            else {
+                assignaction = "Update"
+            }
+            //set value in a object
+            var Adminobject = {
+                UserID: UserID,
+                FirstName: FirstName,
+                LastName: LastName,
+                ContactNo: ContactNo,
+                Email: Email,
+                Address: Address,
+                Pasword: Pasword,
+                status: status,
+            }
+            //end
+            var jsonobject = JSON.stringify(Adminobject);
+
+            //pass data to controller
+            $.ajax({
+                url: "/SetUp/InsertUpdateDeleteAdmin",
+                type: "post",
+                dataType: "json",
+                data: { adminobj: jsonobject, action: "Delete" },
+                success: function (response) {
+                    alert(response.data);
+                    window.location.href = "/SetUp/AdminIndex"
+                },
+                error: function () {
+                    alert("Errr:")
+                }
+            })
+            // end
+        })
+        //End
+    })
+</script>

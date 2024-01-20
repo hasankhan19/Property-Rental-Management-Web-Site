@@ -1,0 +1,747 @@
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\appsettings.json
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\appsettings.Development.json
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.staticwebassets.runtime.json
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.exe
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.deps.json
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.runtimeconfig.json
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.pdb
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Humanizer.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Newtonsoft.Json.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Drawing.Common.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Runtime.Caching.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Security.Permissions.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Windows.Extensions.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.csproj.AssemblyReference.cache
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.GeneratedMSBuildEditorConfig.editorconfig
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.AssemblyInfoInputs.cache
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.AssemblyInfo.cs
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.csproj.CoreCompileInputs.cache
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.MvcApplicationPartsAssemblyInfo.cache
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.RazorAssemblyInfo.cache
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.RazorAssemblyInfo.cs
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.RentalManagementSyetem.Microsoft.AspNetCore.StaticWebAssets.props
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.build.RentalManagementSyetem.props
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RentalManagementSyetem.props
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RentalManagementSyetem.props
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets.pack.json
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets.build.json
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets.development.json
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\scopedcss\bundle\RentalManagementSyetem.styles.css
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\scopedcss\projectbundle\RentalManagementSyetem.bundle.scp.css
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.csproj.CopyComplete
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\refint\RentalManagementSyetem.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.pdb
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.genruntimeconfig.cache
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\ref\RentalManagementSyetem.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\MessagePack.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\MessagePack.Annotations.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Build.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Common.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Configuration.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Frameworks.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Packaging.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Protocol.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Versioning.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.Convention.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.Hosting.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.Runtime.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\af\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\az\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\da\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\el\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\he\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\id\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\is\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+S:\fiver client\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\appsettings.Development.json
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\appsettings.json
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.staticwebassets.runtime.json
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.exe
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.deps.json
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.runtimeconfig.json
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.pdb
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Humanizer.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\MessagePack.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Common.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.csproj.AssemblyReference.cache
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.AssemblyInfoInputs.cache
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.AssemblyInfo.cs
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.csproj.CoreCompileInputs.cache
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.MvcApplicationPartsAssemblyInfo.cache
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.RazorAssemblyInfo.cache
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.RazorAssemblyInfo.cs
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.RentalManagementSyetem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.build.RentalManagementSyetem.props
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RentalManagementSyetem.props
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RentalManagementSyetem.props
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets.build.json
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets.development.json
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\scopedcss\bundle\RentalManagementSyetem.styles.css
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\scopedcss\projectbundle\RentalManagementSyetem.bundle.scp.css
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.csproj.CopyComplete
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\refint\RentalManagementSyetem.dll
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.pdb
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.genruntimeconfig.cache
+D:\Fiverr-Projetcs\clashofyt_canada-11-22-2023\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\ref\RentalManagementSyetem.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\appsettings.json
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.staticwebassets.runtime.json
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.exe
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.deps.json
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.runtimeconfig.json
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\RentalManagementSyetem.pdb
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.csproj.AssemblyReference.cache
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.AssemblyInfoInputs.cache
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.AssemblyInfo.cs
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.csproj.CoreCompileInputs.cache
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.RazorAssemblyInfo.cache
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.RazorAssemblyInfo.cs
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.RentalManagementSyetem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.build.RentalManagementSyetem.props
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RentalManagementSyetem.props
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RentalManagementSyetem.props
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\scopedcss\bundle\RentalManagementSyetem.styles.css
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\scopedcss\projectbundle\RentalManagementSyetem.bundle.scp.css
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.csproj.CopyComplete
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\refint\RentalManagementSyetem.dll
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.pdb
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\RentalManagementSyetem.genruntimeconfig.cache
+C:\Users\Clash\Downloads\RentalManagementSyetem\RentalManagementSyetem\RentalManagementSyetem\obj\Debug\net6.0\ref\RentalManagementSyetem.dll

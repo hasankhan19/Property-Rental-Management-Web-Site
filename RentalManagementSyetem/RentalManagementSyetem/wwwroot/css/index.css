@@ -1,0 +1,566 @@
+/* Import Google font - Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/*Header*/
+.navb-head {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+
+.nav_item {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 2px;
+}
+
+.nav_link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.nav_item {
+  column-gap: 40px;
+}
+
+.nav_link:hover {
+  color: #f1b11b;
+  border-bottom: 2px solid #f1b11b;
+}
+
+.drop-nav-parent {
+  min-height: 100%;
+}
+
+.drop-nav {
+  height: 70px;
+  width: 100%;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+}
+
+nav .logo {
+  display: flex;
+  align-items: center;
+  margin-left: 12px;
+}
+
+.logo .menu-icon {
+  color: white;
+  font-size: 40px;
+  margin-right: 8px;
+  margin-top: 3px;
+  cursor: pointer;
+}
+
+.logo .menu-icon:hover {
+  color: #f1b11b;
+}
+
+.logo .logo-name {
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.logo .logo-name:hover {
+  color: #f1b11b;
+}
+
+.logo-name-inner {
+  color: #707070;
+  margin-left: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.nav-login-btn {
+  /* Green */
+  border: 2px solid white;
+  border-radius: 3px;
+  font-weight: bold;
+  background: none;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  padding: 7px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-top: 12px;
+  margin-right: 20px;
+}
+
+.nav-login-btn:hover {
+  background-color: #f1b11b;
+  border-color: #f1b11b;
+}
+
+nav .sidebar {
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  height: 100%;
+  width: 260px;
+  padding: 20px 0;
+  background-color: #fff;
+  box-shadow: 0 5px 1px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s ease;
+}
+
+nav.open .sidebar {
+  left: 0;
+}
+
+.sidebar .sidebar-content {
+
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px 16px;
+}
+
+.sidebar-content .list {
+  list-style: none;
+}
+
+.list .nav-link {
+  display: flex;
+  align-items: center;
+  margin: 8px 0;
+  padding: 14px 12px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.lists .nav-link:hover {
+  background-color: #4070f4;
+}
+
+.nav-link .icon {
+  margin-right: 14px;
+  font-size: 20px;
+  color: #707070;
+}
+
+.nav-link .link {
+  font-size: 16px;
+  color: #707070;
+  font-weight: 400;
+}
+
+.lists .nav-link:hover .icon,
+.lists .nav-link:hover .link {
+  color: #fff;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: -100%;
+  height: 1000vh;
+  width: 200%;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.4s ease;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+nav.open~.overlay {
+  opacity: 1;
+  left: 260px;
+  pointer-events: auto;
+}
+
+.example {
+
+  overflow-y: scroll;
+  /* Add the ability to scroll */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.example::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/*Header Responsive*/
+@media screen and (max-width: 840px) {
+  .nav_item {
+    column-gap: 25px;
+  }
+
+  .nav_link {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 840px) {
+  .nav_item {
+    display: none;
+  }
+
+}
+
+/*CSS Styling for Registration Form*/
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.wraper {
+  backdrop-filter: blur(9px);
+  -webkit-backdrop-filter: blur(9px);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.background-section {
+  height: 400px;
+  color: white;
+}
+
+.background-section img {
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  height: 900px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  /* Place the image behind the content */
+}
+
+.container {
+  max-width: 700px;
+  width: 100%;
+  background-size: cover;
+  padding: 25px;
+  margin-top: 45px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.container header {
+  font-size: 1.5rem;
+  color: white;
+  font-weight: 500;
+  text-align: start;
+}
+
+.container .form {
+  margin-top: 30px;
+}
+
+.form .input-box {
+  width: 100%;
+  margin-top: 20px;
+
+}
+
+.form .input-box1 {
+  width: 100%;
+  margin-top: 0px;
+
+}
+
+.input-box label {
+  color: white;
+}
+
+.form :where(.input-box input, .select-box) {
+  position: relative;
+  height: 50px;
+  width: 100%;
+  outline: none;
+  font-size: 1rem;
+  color: white;
+  margin-top: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 0 15px;
+  background: none;
+}
+
+.input-box input:focus {
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.form .column {
+  display: flex;
+  column-gap: 15px;
+}
+
+.form .gender-box {
+  margin-top: 20px;
+  margin-left: 2px;
+}
+
+.gender-box h3 {
+  color: white;
+  font-size: 1rem;
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+
+.form :where(.gender-option, .gender) {
+  display: flex;
+  align-items: center;
+  column-gap: 50px;
+  flex-wrap: wrap;
+}
+
+.form .gender {
+  column-gap: 5px;
+}
+
+input[type="text"]::placeholder {
+  color: white;
+  /* Set the desired color */
+}
+
+input[type="number"]::placeholder {
+  color: white;
+  /* Set the desired color */
+}
+
+.gender input {
+  accent-color: rgb(130, 106, 251);
+}
+
+.form :where(.gender input, .gender label) {
+  cursor: pointer;
+}
+
+.gender label {
+  color: white;
+}
+
+.address :where(input, .select-box) {
+  margin-top: 15px;
+}
+
+.select-box select {
+  height: 100%;
+  width: 100%;
+  outline: none;
+  border: none;
+  color: white;
+  background: none;
+  font-size: 1rem;
+}
+
+.form button {
+  height: 55px;
+  width: 100%;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 30px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background: #ce9c2b;
+}
+
+.form button:hover {
+  background: #ce9c2b;
+  transform: scale(1.02) rotate(0deg);
+}
+
+/*Registration form Responsive*/
+@media screen and (max-width: 500px) {
+  .form .column {
+    flex-wrap: wrap;
+  }
+
+  .form :where(.gender-option, .gender) {
+    row-gap: 15px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .background-section img {
+    height: 1700px;
+  }
+}
+
+/*Login Form*/
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap");
+
+.bg-img {
+  background-size: cover;
+  height: 730px;
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  color: #fff;
+  /* Add this line for text color */
+  z-index: 2;
+  /* Add this line to ensure it's above other elements */
+}
+
+.login-parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100%;
+  padding: 0 10px;
+}
+
+.login-parent::before {
+  width: 100%;
+  height: 100%;
+}
+
+.login-wrapper {
+  max-width: 400px;
+  margin: auto;
+  border-radius: 8px;
+  margin-top: 60px;
+  padding: 30px;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(9px);
+  -webkit-backdrop-filter: blur(9px);
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.login-input-field {
+  position: relative;
+  border-bottom: 2px solid #ccc;
+  margin: 15px 0;
+}
+
+.login-label {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 16px;
+  pointer-events: none;
+  transition: 0.15s ease;
+}
+
+.login-input {
+  width: 100%;
+  height: 40px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  color: #fff;
+}
+
+.login-input-field input:focus~label,
+.login-input-field input:valid~label {
+  font-size: 0.8rem;
+  top: 10px;
+  transform: translateY(-120%);
+}
+
+.login-forget {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 25px 0 35px 0;
+  color: #fff;
+}
+
+.login-remember {
+  accent-color: #fff;
+}
+
+.forget-label {
+  display: flex;
+  align-items: center;
+}
+
+.login-forget-p {
+  margin-left: 8px;
+}
+
+.login-pppp {
+  margin-top: 480px;
+}
+
+.login-wrapper-a {
+  color: #efefef;
+  text-decoration: none;
+}
+
+.login-wrapper-a:hover {
+  text-decoration: underline;
+}
+
+.login-button {
+  background: #fff;
+  color: #000;
+  font-weight: 600;
+  border: none;
+  padding: 12px 20px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 16px;
+  border: 2px solid transparent;
+  transition: 0.3s ease;
+}
+
+.login-button:hover {
+  color: #fff;
+  border-color: #fff;
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.login-register {
+  text-align: center;
+  margin-top: 30px;
+  color: #fff;
+}
+
+/*Login form Responsive*/
+@media screen and (max-width: 500px) {
+  .login-pppp {
+    margin-top: 880px;
+  }
+}
+
